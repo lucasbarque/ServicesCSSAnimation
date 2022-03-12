@@ -1,5 +1,3 @@
-!-- Title -->
-
 <h1 align="center"> CSS Animations </h1>
 
 <!-- Preview -->
